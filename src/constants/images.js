@@ -37,7 +37,7 @@ import spotify from '../assets/spotify.png';
 import next from '../assets/next.png';
 import ali from '../assets/ali.png';
 
-export default {
+const images = {
   email,
   mobile,
   api,
@@ -74,3 +74,4 @@ export default {
   next,
   ali,
 };
+export default images;
